@@ -1,1 +1,2 @@
-file A
+feature 1
+feature 2
